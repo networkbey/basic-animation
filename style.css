@@ -1,0 +1,166 @@
+body{
+background-color: black;
+
+}
+*{
+text-align: center;
+margin: auto;
+font-style: italic;
+}
+strong{
+
+
+}
+
+.div{
+margin-top: 100px;
+border-radius: 20px;
+width: 300px;
+height: 30px;
+background-color: brown;
+transition: 0.5s;
+
+
+}
+ .div:hover{
+width: 500px;
+background-color: grey;
+}
+.div1{
+	border-radius: 20px;
+width:300px;
+height:30px;
+background-color: blue;
+transition: 0.5s;
+}
+
+.div1:hover{
+width: 500px;
+background-color:green;
+}
+.div2{
+	 border-radius: 20px;
+
+	width:300px;
+	height: 30px;
+	background-color:blanchedalmond ;
+	transition: 0.5s;
+
+}
+.div2:hover{
+width: 500px;
+background-color: aliceblue;
+
+
+}
+.div3{
+	border-radius: 20px;
+width: 300px;
+height: 30px;
+background-color: gold;
+transition: 0.5s;
+
+}
+.div3:hover{
+	width: 500px;
+	background-color: pink;
+
+}
+
+.div4{
+	border-radius: 20px;
+	width: 300px;
+	height: 30px;
+	background-color: indigo;
+	transition: 0.5s;
+
+}
+.div4:hover{
+	width: 500px;
+	background-color: indianred;
+
+
+
+
+}
+
+.div5{
+	border-radius: 20px;
+width: 300px;
+height: 30px;
+background-color: orangered;
+transition: 0.5s;
+
+}
+.div5:hover{
+	width: 500px;
+	background-color: orchid;
+
+
+}
+
+.div6{
+	border-radius: 20px;
+width: 300px;
+height: 30px;
+background-color: palegreen;
+transition: 0.5s;
+
+}
+.div6:hover{
+	width: 500px;
+	background-color: plum;
+
+}
+
+.div7{
+	border-radius: 20px;
+	width: 300px;
+	height: 30px;
+	background-color: coral;
+	transition: 0.5s;
+
+}
+.div7:hover{
+	width: 500px;
+	background-color:darkgoldenrod;
+
+
+}
+.div8{
+ width: 100px;
+ height:100px;
+ background-color: darkorchid;
+ border-radius: 200px;
+ padding-top: 20px;
+ transition: 2s;
+}
+.div8:hover{
+	width: 200px;
+	height: 200px;
+	background-color: darkmagenta;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+.fotom{
+
+margin-left: 300px;
+margin-top: 10px;
+	width: 100px;
+	height: 100px;
+	background-image: url(benimm.jpeg);
+	background-size: cover;
+	background-position: center;
+	border-radius: 100px;
+  border: 1px solid black;
+
